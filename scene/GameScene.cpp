@@ -30,7 +30,6 @@ void GameScene::Initialize() {
 	worldTransform_.Initialize();
 	// ビュープロジェクションの初期化
 	viewProjection_.Initialize();
-	
 }
 
 void GameScene::Update() {
